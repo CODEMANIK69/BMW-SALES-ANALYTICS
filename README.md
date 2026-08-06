@@ -20,14 +20,14 @@ The Power BI dashboard features a custom **BMW Motorsport cockpit-themed interfa
 ### 1. Home / Landing Page
 The entry point introduces the analytical suite with custom BMW brand design assets and streamlined section routing.
 
-![BMW Sales Report Home](Bmw Sales Report_page-0001.jpg)
+
 
 ---
 
 ### 2. Sales Overview Dashboard
 Provides top-level KPI indicators and visual distributions of sales trends, vehicle engine revenue, segment proportions, and global geographical volume.
 
-![Sales Overview](Bmw Sales Report_page-0002.jpg)
+
 
 #### Key Performance Indicators (KPIs):
 * **Total Units Sold:** 633K+ units (`633,192`)
@@ -40,14 +40,14 @@ Provides top-level KPI indicators and visual distributions of sales trends, vehi
 ### 3. Market & Model Analysis
 Offers granular cross-tabular matrix analysis, model ranking comparisons, engine breakdown distribution, and segment treemaps.
 
-![Market Analysis](Bmw Sales Report_page-0003.jpg)
+
 
 ---
 
 ### 4. Business & Macroeconomic Insights
 Analyzes external economic drivers, marketing expenditures, interest rate correlations, and regional dealership networks.
 
-![Business Insights](Bmw Sales Report_page-0004.jpg)
+
 
 ---
 
